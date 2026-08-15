@@ -2,6 +2,8 @@
 
 An ESP32-based animated Shuba Duck displayed on a 128x64 SSD1306 OLED using pre-rendered bitmap frames.
 
+This is a personal fun/learning electronics project inspired by Shuba Duck memes and GIFs.
+
 **Project by:** Moontasir Al Mansur
 
 ## Project Overview
